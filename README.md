@@ -1,1 +1,1 @@
-# Computer Vision Hough-Transform
+# Image Processing Hough-Transform
